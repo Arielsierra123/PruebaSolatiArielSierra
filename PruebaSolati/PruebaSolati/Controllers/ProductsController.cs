@@ -1,5 +1,5 @@
-﻿using Businees.Models;
-using Businees.Services;
+﻿using Business;
+using Business.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace PruebaSolati.Controllers
